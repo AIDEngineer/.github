@@ -1,22 +1,15 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-<img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
+# Xin chào, Chúng tớ là các AIDE! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast. I have worked as project admin/mentor in various organisation.
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
-  
-
-🔭 I have  worked as a 
-
-Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor at SLOP'2020, Mentor at NJACK NWoC 2020(IIT Patna), Project admin at Script, Winter of code 20-21, DevScript Winter of Code S01, Project Mentor at Winter of Code 1.0, Mentor at UAceIt Winter of Mentorship and GSSOC 2021.
+Chúng tớ là các AIDE, một nhóm cựu sinh viên đến từ UIT. Đây là một góc nhỏ để chúng tớ chia sẽ những dự án hay ho.
 
 
-🌟 STAR THE REPOS IF YOU LIKE 🌟
+🌟 Hãy thả sao cho chúng tớ 🌟
 
 	
 	
 </br>
 	
-  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
+  <summary><h2><b>🥇 Các sản phẩm của chúng tớ.</b></h2></summary>
 
 
   <br />
@@ -31,9 +24,9 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
-    <tbody>
+    <!-- <tbody>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 Lane Detection (OpenCV)</b></a></td>
+	    <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 Lane Detection (OpenCV)</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
@@ -56,7 +49,7 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td> 
       </tr>
-    </tbody>
+    </tbody> -->
   </table>
 
 <br/>  
