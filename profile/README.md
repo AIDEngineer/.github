@@ -1,9 +1,9 @@
 # Xin chào, Chúng tớ là các AIDE! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-Chúng tớ là các AIDE, một nhóm cựu sinh viên đến từ UIT. Đây là một góc nhỏ để chúng tớ chia sẽ những dự án hay ho.
+## Chúng tớ là các AIDE, một nhóm cựu sinh viên đến từ UIT. Đây là một góc nhỏ để chúng tớ chia sẽ những dự án hay ho.
 
 
-🌟 Hãy thả sao cho chúng tớ 🌟
+## 🌟 Hãy thả sao cho chúng tớ 🌟
 
 	
 	
